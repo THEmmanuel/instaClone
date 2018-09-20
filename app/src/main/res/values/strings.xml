@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">instaClone</string>
+    <string name="Edit_Profile">Edit Profile</string>
+    <string name="Sign_Out">Sign Out</string>
+</resources>
